@@ -1,0 +1,157 @@
+.logo {
+    margin-left: 50px;
+    margin-top: 100px;
+    width: 200px;
+    margin-top: -50px;
+}
+
+nav{
+    width: 800px;
+    margin: 60px;
+    margin-left: 500px;
+    margin-top: -150px;
+
+}
+nav ul{
+    list-style: none;
+}
+nav ul li{
+    width: 120px;
+    float: left;
+    height: 30px;
+    text-align: center;
+    line-height: 35px;
+    background-color: #ffffff00;
+    font-size: 12px;
+    font-family: sans-serif;
+}
+nav ul li:hover{background: burlywood;}
+nav ul li a{
+color: white;
+font-family: sans-serif;
+text-decoration: none;
+display: block;
+}
+nav ul li ul li{
+    background-color: grey;
+    border-top: 1px solid ;
+    color: white;
+
+}
+nav ul li ul{display: none;}
+nav ul li:hover ul{display: block}
+.wrapper {
+    padding-top: 250px;
+    text-align: center;
+}
+.plan {
+    display: inline-block;
+    width: 900px;
+    color: white;
+    outline: black;
+    font-family: sans-serif;
+    text-align: center;
+}
+header{
+    background-image: url(Assets/plant.jpg);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: -10px;
+    margin-left: -9px;
+    margin-right: -8px;
+}
+.left{
+    margin-left: 20px;
+    vertical-align: text-top;
+    outline-color: white;
+}
+.section{
+    color: black;
+    font-family: sans-serif;
+    letter-spacing: 5px;
+    font-size: medium;
+    text-align: center;
+margin-top: 60px;
+color: gray;
+
+}
+.mask{
+    font-family: sans-serif;
+    letter-spacing: 1px;
+    text-align: center;
+    margin-top: 5px;
+    color: gray;
+}
+.game{
+    text-align: center;
+    display: inline-block;
+    width: 900px;
+    margin-left: 197px;
+    color: gray;
+}
+.capital{
+color: gray;
+margin-left: 20px;
+}
+.small{
+    display: inline-block;
+    text-align: center;
+    width: 200px;
+}
+.flex-container{
+    display: flex;
+  background-color: transparent;
+  margin: 10px;
+  text-align: center;
+  line-height: normal;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  margin-top: 60px;
+}
+.offwhite1{
+    color: grey;
+    letter-spacing: 2px;
+}
+.manifesto{
+    margin-left: 55px;
+    margin-top: 200px;
+}
+.offwhite2{
+    color: grey;
+}
+.offwhite3{
+    width: 600px;
+    font-size: 17px;
+}
+.offwhite4{
+    width: 600px;
+}
+footer{
+    background-image: url(Assets/leaf.jpg);
+    background-position: center center;
+    background-size: 50%;
+    background-repeat: no-repeat;
+height: 400px; width: 400px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
